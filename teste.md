@@ -1,4 +1,4 @@
-﻿# Rotas para busca de emprego
+# Rotas para busca de emprego
 
 # A busca da vaguinha perfeita
 
@@ -15,7 +15,7 @@ Essa lista contém sites diversos, desde grandes empresas de RH a pequenas contr
 |endereço                             |tipo    |área          |
 |-------------------------------------|--------|--------------|
 |https://www.notion.so/contrata-se.dev|buscador|diversas áreas|
-|chttps://github.com/frontendbr/vagas |buscador|front-end     |
+|https://github.com/frontendbr/vagas |buscador|front-end     |
 |https://www.transempregos.org/       |buscador|diversas áreas|
 |www.nube.com.br                      |plataforma|diversas áreas|
 |https://www.apinfo.com/apinfo/       |plataforma|diversas áreas|
